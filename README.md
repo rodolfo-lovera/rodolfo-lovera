@@ -1,4 +1,19 @@
-### Hi there 👋
+<h1 align="center">
+  Hello World, I'm Rodolfo Lovera 👋
+</h1>
+
+<h3 align="center">
+  Bacharelando em Ciência de Dados • Docente de Ensino Superior
+</h3>
+
+<div align="center">
+<p>
+<a href="mailto:rodolfo.lovera@gmail.com">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
+</a>
+<a href="www.linkedin.com/in/rodolfo-lovera"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
+<a href="[https://www.youtube.com/channel/UCCcDZkI7AITYFCgDEFV9OoQ](https://www.youtube.com/@lovera.rodolfo)"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=EBD03E&amp;color:FFF" alt="Youtube"></a></p>
+</div>
 
 <!--
 **rodolfo-lovera/rodolfo-lovera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Estrutura em Markdown para Readme de Apresentação Pessoal
 ## Seção 1: Apresentação
 
 Nome completo: Seu nome completo
