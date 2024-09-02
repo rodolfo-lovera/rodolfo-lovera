@@ -17,10 +17,15 @@
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
+Profissional com domínio em Excel e Análise de Dados, capaz de transformar dados em informações relevantes para a organização, fornecendo insigths valiosos para tomada de decisão.
+ Habilidades em Excel aplicada para negócios e Power Bi, aumentando a produtividade e eficiência do Trabalho.
+ Conhecimento em outras ferramentas e tecnologias, tais como: Python, SQL, Power Apps, Google Sheets, Chat GPT, dentre outras.
+
   - 👨‍🎓 Bacharelando em Ciência de Dados pela UNIVESP, formado em Engenharia elétrica pela PUCSP e mestre em Educação Profissional
   - 👨‍💻 Estou em Migração para a área de dados. Possuo experiência em docência em ensino superior e desenvolvimento de projetos de automação industrial
   - 📊 Fui coordenador de curso de Análise e Desenvolvimento de Sistemas, docente de ensino técnico
   - 🔭 Atualmente estou focado nas áreas de Análise e Ciência de Dados
+  - Sou embaixador da DIO, por meio do programa DIO Campus Expert
 
   <h2 align="left">🗺 Guia de Repositórios</h2>
 
