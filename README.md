@@ -11,7 +11,7 @@
 <a href="mailto:rodolfo.lovera@gmail.com">
 <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
 </a>
-<a href="www.linkedin.com/in/rodolfo-lovera"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/rodolfo-lovera"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
 <a href="https://www.youtube.com/@lovera.rodolfo"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=EBD03E&amp;color:FFF" alt="Youtube"></a></p>
 </div>
 
